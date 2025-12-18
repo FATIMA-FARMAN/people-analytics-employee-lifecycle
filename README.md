@@ -153,6 +153,12 @@ It reflects the responsibilities of a **People Data Analyst in a fintech environ
 
 ---
 
-people_analytics_executive_dashboard_final.png
+## 📸 Dashboard Preview
+
+dashboards/
+
+<p align="center">
+  <img src="dashboards/people_analytics_executive_dashboard_final.png" width="900">
+</p>
 
 ## 📁 Repository Structure
